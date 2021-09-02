@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My linkedIn](https://www.linkedin.com/in/kavya-padala-10a44619a/)
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I am cross dominant(I write with my left hand and eat with right)
-- -->
