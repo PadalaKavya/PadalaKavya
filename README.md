@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**PadalaKavya/PadalaKavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am Kavya! 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... building a mobile application
+- 🌱 I’m currently learning ... Machine Learning
+- 👯 I’m looking to collaborate on ... web development
+- 🤔 I’m looking for help with ... understanding machine learning and artificial Intelligence
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... [My linkedIn](https://www.linkedin.com/in/kavya-padala-10a44619a/)
+- 😄 Pronouns: ...she/her
+- ⚡ Fun fact: ...I am cross dominant(I write with my left hand and eat with right)
+- -->
