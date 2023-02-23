@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... building a mobile application
+- 🔭 I’m currently working on ... Networking
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ... web development
 - 🤔 I’m looking for help with ... understanding machine learning and artificial Intelligence
